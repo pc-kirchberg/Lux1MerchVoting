@@ -48,7 +48,7 @@ h1,h2,h3 {
 body {
     font-size: 16px;
     background-image: linear-gradient(to top, var(--gris-claro) 0%, var(--blanco) 100%);
-    font-family: 'Montserrat-Regular', sans-serif;
+    font-family: 'Monserrat-Regular', sans-serif;
 }
 
 h1 {
@@ -82,7 +82,7 @@ span {
 
 
 .titulo {
-    font-family: 'Montserrat-Regular', cursive;
+    font-family: 'Monserrat-Regular', cursive;
     font-weight: 100;
     font-size: 3.8rem;
     text-align: center;
